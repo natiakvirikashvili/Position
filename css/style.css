@@ -39,7 +39,7 @@
 	margin-right: 50px;
 	font-family: 'Montserrat';
 	text-transform: uppercase;
-    font-style: normal;
+        font-style: normal;
 }
 
 
@@ -66,11 +66,11 @@
 .text-image {
 	position: absolute;
 	top: 130px;
-    left: 740px;
-    color: #FFFFFF;
-    font-size: 22px;
-    font-family: 'Montserrat';
-    font-weight: normal;
+	left: 740px;
+	color: #FFFFFF;
+	font-size: 22px;
+	font-family: 'Montserrat';
+	font-weight: normal;
 }
 
 
@@ -117,8 +117,8 @@
 	font-size: 22px;
 	color: #FF7A00;
 	font-family: 'Montserrat';
-    font-weight: 500;
-    text-transform: capitalize;
+        font-weight: 500;
+        text-transform: capitalize;
 }
 
 
@@ -171,10 +171,10 @@
 	color: #FF7A00;
 	margin-top: 41px;
 	margin-bottom: 59px;
-    font-size: 14px;
-    font-family: 'Montserrat';
-    font-weight: 500;
-    text-transform: uppercase;
+	font-size: 14px;
+	font-family: 'Montserrat';
+	font-weight: 500;
+	text-transform: uppercase;
 }
 
 
@@ -259,9 +259,8 @@
 
 .nav-ft {
 	width: 124px;
-	
 	margin-bottom: 23px;
-    font-family: 'Montserrat';
+        font-family: 'Montserrat';
 	text-transform: capitalize;
 	font-style: normal;
 }
@@ -318,7 +317,7 @@
 
 
 .icon3 {
-    vertical-align: top;
+        vertical-align: top;
 	margin-top: 24px;
 }
 
@@ -328,8 +327,8 @@
 
 
 .container3 {
-   width: 291px;
-   margin-right: 410px;
+         width: 291px;
+         margin-right: 410px;
 }
 
 
